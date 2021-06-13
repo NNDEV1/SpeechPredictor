@@ -3,8 +3,8 @@ from keras.utils.data_utils import get_file
 from keras.preprocessing.sequence import pad_sequences
 from keras.preprocessing.text import Tokenizer
 
-train_sentences = clean_sentences[:7000]
-validation_sentences = clean_sentences[7000:]
+train_sentences = data.clean_sentences[:7000]
+validation_sentences = data.clean_sentences[7000:]
 
 tokenizer = Tokenizer()
 tokenizer.fit_on_texts(train_sentences)
