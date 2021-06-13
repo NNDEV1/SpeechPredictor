@@ -14,4 +14,4 @@ model = Sequential([
 model.summary()
 model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
-model.fit(preprocess.train_padded, np.array(preprocess.vocab_size), batch_size=32, epochs=100)
+model.fit(preprocess.train_padded, np.array(preprocess.y_train), batch_size=32, epochs=100)
