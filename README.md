@@ -11,7 +11,6 @@
 <br />
 <p align="center">
   <a href="https://github.com/NNDEV1/SpeechPredictor">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Speech Predictor</h3>
@@ -52,7 +51,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -124,7 +122,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Nalin Nagar - nalinnagar1@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/NNDEV1/SpeechPredictor)
+Project Link: [https://github.com/NNDEV1/SpeechPredictor](https://github.com/NNDEV1/SpeechPredictor)
 
 
 
