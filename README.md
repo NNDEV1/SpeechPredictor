@@ -17,7 +17,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NNDEV1/SpeechPredictor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
@@ -93,7 +93,7 @@ _For more examples, please refer to the [Tensorflow Website](https://tensorflow.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/NNDEV1/SpeechPredictor/issues) for a list of proposed features (and known issues).
 
 
 
